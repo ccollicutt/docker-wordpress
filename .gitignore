@@ -1,0 +1,4 @@
+*.tar
+*.orig
+edfilms/wordpress
+*.swp
